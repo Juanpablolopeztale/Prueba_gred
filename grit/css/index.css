@@ -9,14 +9,12 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     align-items: center;
-
-    background-color: beige;
 }
 .bloque{
+
     width: 10rem;
     height: 10rem;
-    margin: auto;
-    background-color: rgb(118, 218, 221);
+    background-color: rgb(110, 238, 88);
     
 }
 
