@@ -1,0 +1,23 @@
+.main {
+
+    width: 40rem;
+    height: 100vh;
+    padding: 1rem;
+
+    margin: auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+}
+.bloque{
+
+    width: 10rem;
+    height: 10rem;
+    background-color: rgb(118, 218, 221);
+    
+}
+
+.activar{
+    display: none;
+}
